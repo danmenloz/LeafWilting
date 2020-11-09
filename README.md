@@ -2,9 +2,9 @@
 This is a nerual networks project that aims to rate images from a scale of 0 (No wilting) to 4 (Severe turgor loss throughout canopy).
 
 ## How to run this project?
-There are 3 main files: *Dataset.ipyb*, *VGG16.ipynb* and *Results.ipynb*. The */TrainingData* directory holds the training images and their annotations in a CSV file, and th */prediction* directory holds the images whose labels have to be predicted.
+There are 3 main files: *Dataset.ipyb*, *VGG16.ipynb* and *Results.ipynb*. The */TrainingData* directory holds the training images and their annotations in a CSV file, and the */prediction* directory holds the images whose labels have to be predicted.
 
-Follow the next steps to generate the predicitions:
+Follow the next steps to generate the predictions:
 
 1. Download the files and copy them into your Google Drive root folder under the directory name *ECE_542-Project1*. Your Google Drive should look as follows:
     * My Drive/ECE_542-Project1/prediction/...  
